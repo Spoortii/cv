@@ -1,0 +1,178 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  /* background-size: cover;
+  min-width: 100vh; */
+
+}
+
+#title{
+  background-color: #6C4AB6;
+  color: white;
+}
+
+.title-img{
+  max-width: 50px;
+  max-height: 50px;
+  float:left;
+}
+
+.nav-bar{
+  padding: 1% 12%;
+
+}
+.insta-image,.image2{
+  width: 100%;
+  height:auto;
+}
+/* .top-menu{
+  padding: 3% 12% 4%;
+} */
+
+h1{
+
+  font-size: 6rem;
+  font-weight: 900;
+  color:#6C4AB6;
+  line-height: 10rem;
+}
+
+h2{
+
+  font-size: 3rem;
+  padding-bottom: 5%;
+  font-weight: 900;
+}
+
+h3{
+
+  font-size: 2.5rem;
+  padding-bottom: 5%;
+  color:#6C4AB6;
+}
+
+h4{
+
+  font-size: 1.5rem;
+  color:#6C4AB6;
+  font-weight: bold;
+  padding-top: 2%;
+  line-height: 1rem;
+  margin: 5% 0;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+  font-weight: inherit;
+}
+.featur3{
+  font-family: 'Open Sans', sans-serif;
+  color:#8D72E1;
+  font-size: 1rem;
+}
+
+.feature{
+  padding: 0 5%;
+}
+
+.name{
+  color: white;
+}
+
+
+
+.background-img{
+  width: 100%;
+  height:auto;
+}
+
+.first-part{
+  position: relative;
+  text-align: center;
+  margin-right: 0;
+  margin-left: 0;
+  padding: 0;
+}
+
+.centered{
+  position:absolute;
+  top:30%;
+  left: 50%;
+  transform: translate(-50%,-30%);
+}
+
+#features{
+  margin: 3% 0;
+}
+
+.btn-dark{
+  background-color: #8D72E1;
+  border-color: #8D72E1;
+  color: white;
+}
+
+.btn-dark:hover{
+   background-color: #6C4AB6;
+   border-color: #6C4AB6;
+}
+
+.btn-outline-primary {
+   background-color: #8D72E1;
+   border-color:#8D72E1;
+   color: white;
+}
+
+.btn-outline-primary:hover{
+  background-color: #6C4AB6;
+  border-color: #6C4AB6;
+}
+
+.btn-log-in{
+ margin-top: 20px;
+}
+
+.howitworks{
+  padding: 3% 12%;
+  background-color:  #d9c1fb;
+  color:#6C4AB6;
+}
+.how-work{
+  padding:120px 0;
+}
+
+.sign-in{
+   padding: 4% 8%;
+  background-color:  #d9c1fb;
+  margin: 0 ;
+}
+
+.login{
+  padding:0 3%;
+}
+
+.form-label{
+   margin: 10px 0 5px;
+ }
+
+ a{
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover{
+  color: green;
+}
+
+.form-control{
+  border-color: #6C4AB6;
+}
+.form-control:focus{
+  border-color: #6C4AB6;
+  box-shadow: none;
+}
+
+.fa-solid{
+   color: #6C4AB6;
+
+
+ }
